@@ -1,4 +1,5 @@
 # Credit-Card-Defaulters
+
 The data which is use to send by the bank in multiple files in branches at a given location. The data has been extracted form the census bureau.
 To bulit a model that predict wheather a persion is going to make credit card payment or not.
 
